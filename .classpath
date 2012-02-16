@@ -2,15 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="C:/Librairies/LWJGL/lwjgl-2.8.2/jar/lwjgl.jar" sourcepath="C:/Librairies/Slick/src/org/newdawn/slick">
+	<classpathentry kind="lib" path="lib/lwjgl.jar">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Librairies/LWJGL/lwjgl-2.8.2/native/windows"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Slake/lib/native"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Librairies/Slick/lib/slick.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/C:/Librairies/Slick/javadoc.zip!/"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="lib/slick.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
