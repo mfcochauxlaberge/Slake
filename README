@@ -1,0 +1,3 @@
+Slake (Snake + Slick) is a small snake game written in Java. It uses the Slick library.
+
+The source doesn't include the Slick library and the natives. You will need them and set up your IDE in order to compile and run the game.
