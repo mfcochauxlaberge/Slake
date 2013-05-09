@@ -7,3 +7,7 @@ Catch the purple dot to grow and make a point. Yellow dots give ten points inste
 dots make you a ghost so you don't die when ou hit your own body.
 
 The game is finished. It should not get major updates. It is here as an example of a game written in Java using the Slick library.
+
+## Licence
+
+CC BY-SA 3.0
