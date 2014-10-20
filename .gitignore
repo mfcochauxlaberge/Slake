@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 bin/
 .settings/*
 .project
 .classpath
+=======
+bin*
+.settings*
+.project
+>>>>>>> 005eda3704c2dd17fb9a92ae79c2cdb38194bd11

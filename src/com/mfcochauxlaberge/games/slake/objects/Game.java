@@ -10,7 +10,7 @@ import com.mfcochauxlaberge.games.slake.util.Position;
  * The Game class is the center of the game. It controls the snake, the board,
  * and the items.
  * 
- * @author Marc-François Cochaux-Laberge
+ * @author Marc-FranÃ§ois Cochaux-Laberge
  * 
  */
 public class Game {
@@ -114,8 +114,8 @@ public class Game {
 	}
 
 	/**
-	 * Update the game. Calls the update() method of the snake object, checks if
-	 * an item has been captured and checks if the game is over.
+	 * Update the game. Call the update() method of the snake object, check if
+	 * an item has been captured and check if the game is over.
 	 * 
 	 * @throws SlickException
 	 *             A Slick exception
@@ -146,7 +146,7 @@ public class Game {
 	}
 
 	/**
-	 * Returns an item randomly positioned on the board.
+	 * Return an item randomly positioned on the board.
 	 * 
 	 * @return A random item (random position)
 	 * @throws SlickException
